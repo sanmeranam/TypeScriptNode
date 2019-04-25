@@ -1,0 +1,7 @@
+---
+applications:
+- name: basetsnode
+  memory: 1024M
+  instances: 1
+  random-route: false
+  buildpack: nodejs_buildpack
